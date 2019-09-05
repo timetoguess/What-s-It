@@ -4,7 +4,7 @@ A guessing game powered by AI!
 Time To Guess downloads an image from the Internet and uses artificial intelligence to select a random object! Get some clues and take a guess 😊
 
 ## Background
-This summer I noticed that my kids and nephews (elementary through high school) were playing the guess name - one of them selected (in mind) an object in the room and others tried to guess it by asking Yes/No type questions to that person. I thought this would be a fun application of objection detection in AI and hence this project! Not that I wanted to increase their screen time 😜
+This summer I noticed that my kids and nephews (elementary through high school) were playing the guess name - one of them selected (in mind) an object in the room and others tried to guess it by asking Yes/No type questions to that person. I thought this would be a fun application of object detection in AI, and hence this project! Not that I wanted to increase their screen time 😜
 
 ## Usage
 Take the fun of guess game to the next level with Time To Guess app - Powered by AI!
