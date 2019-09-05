@@ -1,0 +1,81 @@
+Label,Is Living?,Is An Animal?,Requires Wall/Battery Power?,Is a Means of Transport?,Is a Sports Item?,Is Usually Orange?,Is Usually Green?,Is Edible (As Is)?,Is A Kitchen Appliance?,Is A Tableware?,Can Fly/Be Flown?
+person,Yes,Yes,No,No,No,No,No,No,No,No,No
+bicycle,No,No,No,Yes,Yes,No,No,No,No,No,No
+car,No,No,Yes,Yes,Yes,No,No,No,No,No,No
+motorbike,No,No,Yes,Yes,Yes,No,No,No,No,No,No
+aeroplane,No,No,Yes,Yes,No,No,No,No,No,No,Yes
+bus,No,No,Yes,Yes,No,No,No,No,No,No,No
+train,No,No,Yes,Yes,No,No,No,No,No,No,No
+truck,No,No,Yes,Yes,No,No,No,No,No,No,No
+boat,No,No,Yes,Yes,Yes,No,No,No,No,No,No
+traffic light,No,No,Yes,No,No,No,No,No,No,No,No
+fire hydrant,No,No,No,No,No,No,No,No,No,No,No
+stop sign,No,No,No,No,No,No,No,No,No,No,No
+parking meter,No,No,Yes,No,No,No,No,No,No,No,No
+bench,No,No,No,No,No,No,No,No,No,No,No
+bird,Yes,Yes,No,No,No,No,No,No,No,No,Yes
+cat,Yes,Yes,No,No,No,No,No,No,No,No,No
+dog,Yes,Yes,No,No,No,No,No,No,No,No,No
+horse,Yes,Yes,No,Yes,No,No,No,No,No,No,No
+sheep,Yes,Yes,No,No,No,No,No,No,No,No,No
+cow,Yes,Yes,No,No,No,No,No,No,No,No,No
+elephant,Yes,Yes,No,Yes,No,No,No,No,No,No,No
+bear,Yes,Yes,No,No,No,No,No,No,No,No,No
+zebra,Yes,Yes,No,No,No,No,No,No,No,No,No
+giraffe,Yes,Yes,No,No,No,No,No,No,No,No,No
+backpack,No,No,No,No,No,No,No,No,No,No,No
+umbrella,No,No,No,No,No,No,No,No,No,No,No
+handbag,No,No,No,No,No,No,No,No,No,No,No
+tie,No,No,No,No,No,No,No,No,No,No,No
+suitcase,No,No,No,No,No,No,No,No,No,No,No
+frisbee,No,No,No,No,Yes,No,No,No,No,No,No
+skis,No,No,No,No,Yes,No,No,No,No,No,No
+snowboard,No,No,No,No,Yes,No,No,No,No,No,No
+sports ball,No,No,No,No,Yes,No,No,No,No,No,No
+kite,No,No,No,No,Yes,No,No,No,No,No,No
+baseball bat,No,No,No,No,Yes,No,No,No,No,No,No
+baseball glove,No,No,No,No,Yes,No,No,No,No,No,No
+skateboard,No,No,No,No,Yes,No,No,No,No,No,No
+surfboard,No,No,No,No,Yes,No,No,No,No,No,No
+tennis racket,No,No,No,No,Yes,No,No,No,No,No,No
+bottle,No,No,No,No,No,No,No,No,No,No,No
+wine glass,No,No,No,No,No,No,No,No,No,Yes,No
+cup,No,No,No,No,No,No,No,No,No,Yes,No
+fork,No,No,No,No,No,No,No,No,No,Yes,No
+knife,No,No,No,No,No,No,No,No,No,Yes,No
+spoon,No,No,No,No,No,No,No,No,No,Yes,No
+bowl,No,No,No,No,No,No,No,No,No,Yes,No
+banana,Yes,No,No,No,No,No,No,Yes,No,No,No
+apple,Yes,No,No,No,No,No,No,Yes,No,No,No
+sandwich,No,No,No,No,No,No,No,Yes,No,No,No
+orange,Yes,No,No,No,No,Yes,No,Yes,No,No,No
+broccoli,Yes,No,No,No,No,No,Yes,Yes,No,No,No
+carrot,Yes,No,No,No,No,Yes,No,Yes,No,No,No
+hot dog,No,No,No,No,No,No,No,Yes,No,No,No
+pizza,No,No,No,No,No,No,No,Yes,No,No,No
+donut,No,No,No,No,No,No,No,Yes,No,No,No
+cake,No,No,No,No,No,No,No,Yes,No,No,No
+chair,No,No,No,No,No,No,No,No,No,No,No
+sofa,No,No,No,No,No,No,No,No,No,No,No
+potted plant,Yes,No,No,No,No,No,Yes,No,No,No,No
+bed,No,No,No,No,No,No,No,No,No,No,No
+dining table,No,No,No,No,No,No,No,No,No,No,No
+toilet,No,No,No,No,No,No,No,No,No,No,No
+tv monitor,No,No,Yes,No,No,No,No,No,No,No,No
+laptop,No,No,Yes,No,No,No,No,No,No,No,No
+mouse,No,No,Yes,No,No,No,No,No,No,No,No
+remote,No,No,Yes,No,No,No,No,No,No,No,No
+keyboard,No,No,Yes,No,No,No,No,No,No,No,No
+cell phone,No,No,Yes,No,No,No,No,No,No,No,No
+microwave,No,No,Yes,No,No,No,No,No,Yes,No,No
+oven,No,No,Yes,No,No,No,No,No,Yes,No,No
+toaster,No,No,Yes,No,No,No,No,No,Yes,No,No
+sink,No,No,No,No,No,No,No,No,No,No,No
+refrigerator,No,No,Yes,No,No,No,No,No,Yes,No,No
+book,No,No,No,No,No,No,No,No,No,No,No
+clock,No,No,Yes,No,No,No,No,No,No,No,No
+vase,No,No,No,No,No,No,No,No,No,No,No
+scissors,No,No,No,No,No,No,No,No,No,No,No
+teddy bear,No,No,No,No,No,No,No,No,No,No,No
+hair drier,No,No,Yes,No,No,No,No,No,No,No,No
+toothbrush,No,No,No,No,No,No,No,No,No,No,No
