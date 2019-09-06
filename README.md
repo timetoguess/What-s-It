@@ -29,6 +29,25 @@ Your comments and feedback are welcome!
 
 Happy guessing! Enjoy - Time To Guess!
 
+## Screen Captures
+<img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/5.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-01%20at%2019.20.26.png" width="124" height="220"> <img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/5.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-01%20at%2017.16.00.png" width="124" height="220">
+<img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/5.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-01%20at%2017.16.05.png" width="124" height="220">
+<img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/5.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-01%20at%2017.16.34.png" width="124" height="220">
+<img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/6.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-09-01%20at%2001.22.05.png" width="124" height="220">
+<img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/5.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-01%20at%2017.16.54.png" width="124" height="220">
+<img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/5.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-01%20at%2017.16.58.png" width="124" height="220">
+<img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/5.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-01%20at%2017.17.20.png" width="124" height="220">
+<img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/5.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-01%20at%2017.21.15.png" width="124" height="220">
+<img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/5.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-01%20at%2019.08.26.png" width="124" height="220">
+<img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/5.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-01%20at%2019.09.54.png" width="124" height="220">
+<img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/5.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-09-01%20at%2019.19.35.png" width="124" height="220">
+<img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/6.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-09-01%20at%2001.21.39.png" width="124" height="220">
+<img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/6.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-09-01%20at%2001.26.34.png" width="124" height="220">
+<img src="https://github.com/timetoguess/What-s-It/blob/master/Screen%20Captures/v1.2/6.5%20Inch/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-09-01%20at%2001.35.43.png" width="124" height="220">
+
+## Usage Video on YouTube
+[![Sample Usage Video](https://i.ytimg.com/vi/Cpp0Vcro1QE/1.jpg)](https://youtu.be/Cpp0Vcro1QE)
+
 ## Required Changes to the Source Code
 The source code has the project What's It. Since the app name was already taken, the app has been published as Time to Guess!
 ### Add your Pexels API key to download the images
